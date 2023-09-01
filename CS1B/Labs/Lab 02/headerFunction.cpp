@@ -1,12 +1,3 @@
-/******************************************************************************
- * AURHOR			:	Negin Mashhadi
- * STUDENT ID		:	1084104
- * ASSIGNMENT#1		:	Functions and Arrays
- * CLASS			:	CS1B
- * SECTION			:	MW - 6:30pm - 9:50pm
- * DUE DATE			:	1/29/2018
- * ****************************************************************************/
-
 #include <string>
 #include <iostream>
 #include <iomanip>		/**setw**/
