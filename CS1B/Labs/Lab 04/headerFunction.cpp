@@ -1,6 +1,4 @@
 /******************************************************************************
- * AURHOR			:	Negin Mashhadi	& Gianna Ta
- * STUDENT ID		:	1084104			& 1050660
  * Lab#4			:	Introduction to Arrays
  * CLASS			:	CS1B
  * SECTION			:	MW - 6:30pm - 9:50pm
