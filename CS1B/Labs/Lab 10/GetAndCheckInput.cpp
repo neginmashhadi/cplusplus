@@ -1,6 +1,4 @@
 /******************************************************************************
- * AUTHOR		 : Negin Mashhadi & James Pelligra
- * STUDENT ID	 : 1084104 & 389711
  * LAB #10 		 : Implementing a queue
  * CLASS		 : CS1B
  * SECTION		 : MW - 6:30pm
