@@ -1,6 +1,4 @@
 /******************************************************************************
- * AUTHOR		 : Negin Mashhadi & James Pelligra
- * STUDENT ID	 : 1084104 & 389711
  * LAB #10 		 : Implementing a queue
  * CLASS		 : CS1B
  * SECTION		 : MW - 6:30pm
@@ -26,10 +24,10 @@
 * ==> Returns nothing - This will output the class heading to output file.
 ******************************************************************************/
 void PrintHeaderToFile(ostream &output, // IN - out file variable - used for output
-					   string   asName, // IN - assignment Name – used for output
+					   string   asName, // IN - assignment Name â€“ used for output
 					   char     asType, // IN - assignment type
-		 	 	 	 	 	 	 	 	//    - (LAB or ASSIGN) – used for output
-					   int      asNum)  // IN – assign. number – used for output
+		 	 	 	 	 	 	 	 	//    - (LAB or ASSIGN) â€“ used for output
+					   int      asNum)  // IN â€“ assign. number â€“ used for output
 
 {
 	output << left;
@@ -39,8 +37,8 @@ void PrintHeaderToFile(ostream &output, // IN - out file variable - used for out
 	output << "* " << setw(14) << "CLASS" << ": CS1B - MW - 6:30p-8:50p\n";
 	output << "* " ;
 
-	 // PROCESSING – This will adjust setw()s and format appropriately
-	 // based on if this is a lab ‘L’ or assignment
+	 // PROCESSING â€“ This will adjust setw()s and format appropriately
+	 // based on if this is a lab â€˜Lâ€™ or assignment
 	 if (toupper(asType) == 'L')
 	 {
 		 output << "LAB #" << setw(9);
