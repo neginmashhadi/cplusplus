@@ -1,6 +1,4 @@
 /******************************************************************************
- * AUTHOR		  : Caroline Ta	& Negin Mashhadi
- * STUDENT ID	  : 1061262		& 1084104
  * LAB #1		  : Theme Park Day Planner
  * CLASS		  : CS1B
  * SECTION		  : MW - 6.30PM
