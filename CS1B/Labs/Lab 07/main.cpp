@@ -1,6 +1,4 @@
 /******************************************************************************
- * AURHOR			:	Negin Mashhadi &	 Kevin Truong
- * STUDENT ID		:	1084104 	   & 	 1017195
  * LAB # 7			:	testing
  * CLASS			:	CS1B
  * SECTION			:	MW - 6:30pm - 9:50pm
