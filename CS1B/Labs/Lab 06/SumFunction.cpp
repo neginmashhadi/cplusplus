@@ -1,6 +1,4 @@
 /******************************************************************************
- * AURHOR			:	Negin Mashhadi &	 Mohammed Taei
- * STUDENT ID		:	1084104 	   & 	 1019392
  * LAB # 6			:	Structs
  * CLASS			:	CS1B
  * SECTION			:	MW - 6:30pm - 9:50pm
