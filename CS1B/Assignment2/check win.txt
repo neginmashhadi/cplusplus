@@ -1,0 +1,10 @@
+options to check win
+
+3 accroos 
+3 in a row
+2 diagnol 
+
+if three of the same find which token it is 
+
+we have to have 5 playes for a win 
+

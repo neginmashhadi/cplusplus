@@ -1,0 +1,38 @@
+/*******************************************************************************
+ * AUTHOR 		: Negin Mashhadi
+ * STUDENT ID 	: 1084104
+ * Assignment#2	: Tic Tac Toe
+ * CLASS 		: CS1B
+ * SECTION 		: MW 6:30p
+ * DUE DATE 	: 02/14/18
+ ******************************************************************************/
+
+
+#include "header.h"
+
+
+void ComputerPlay(char boardAr[][NUM_COLS],
+				  int &row,
+				  int &col)
+{
+	int randomVal1;
+	int randomVal2;
+	bool validMove;
+	
+
+	validMove = false;
+
+	while(!validMove)
+	{
+		srand(time(NULL));
+		randomVal1 = rand() % 3 ;
+		randomVal2 = rand() % 3 ;
+		if(boardAr[randomVal1][randomVal2] == ' ')
+		{
+			validMove = true;
+		}
+	}
+
+	row  = randomVal1;
+	col  = randomVal2;
+}

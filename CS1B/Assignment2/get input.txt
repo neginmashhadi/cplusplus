@@ -1,0 +1,31 @@
+void Get and check (char boardAr[][NUM_COLS], char token)
+{
+	bool valid = false;
+
+	do
+	{
+		cout << token << "\'s turn! what is your paly?: ";
+		cin  >> row >> col;
+		row--;
+		col--; 
+		if(row > NUM_ROWS-1 || row < 0)
+		{
+			cout << "invalid row - please try again\n";
+		}
+		else if ( col NUM_ROWS-1 || row < 0)
+		{
+			cout << "invalid column- please try again\n";
+		}
+		else if(!issoace(boardAr[row][col]))
+		{
+			cout << The spot is taken already - try agin
+		}
+		else
+		{
+			valid = true;
+		}
+
+	}while(!valid)
+	boardAr[row][col] = token;
+	cin.ignore(1000, '\n');
+}
