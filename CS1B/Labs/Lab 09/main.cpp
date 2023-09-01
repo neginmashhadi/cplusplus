@@ -1,6 +1,4 @@
 /******************************************************************************
- * AUTHOR			:	Negin Mashhadi		& Wilson pena
- * STUDENT ID		:	1084104				& 1086320
  * Lab #9			:	Implementing a stack
  * CLASS			:	CS1B
  * SECTION			:	MW - 6:30pm - 9:50pm
