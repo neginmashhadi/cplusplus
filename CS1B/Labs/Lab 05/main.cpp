@@ -1,5 +1,3 @@
-
-
 #include "Lab5Header.h"
 
 int main()
