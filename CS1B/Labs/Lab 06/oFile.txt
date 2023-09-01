@@ -1,6 +1,4 @@
 *************************************************************
-* PROGRAMMED BY : Negin Mashhadi &   Mohammed Taei
-* STUDENT ID    : 1084104	 	 &	1019392
 * CLASS         : CS1B - MW - 6:30pm
 * ASSIGNMENT #6 : structs
 *************************************************************
