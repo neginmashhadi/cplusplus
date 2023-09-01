@@ -1,7 +1,4 @@
 /*******************************************************************************
- * AUTHOR		 : Taylor Paczkowski
- * STUDENT ID	 : 1093172
- * ASSIGNMENT #9 : Functions
  * CLASS		 : CS1A
  * SECTION		 : TTh: 8:00a - 11:20a
  * DUE DATE		 : 11/16/17
@@ -26,10 +23,10 @@
  *      ==> Returns nothing - This function will output the class heading.
  ***************************************************************************/
 
-void PrintHeader(string asName, // IN - assignment Name – used for output
+void PrintHeader(string asName, // IN - assignment Name â€“ used for output
 		         char   asType, // IN - assignment type
-		                        //    - (LAB or ASSIGN) – used for output
-	             int    asNum,  // IN – assign. number  – used for output
+		                        //    - (LAB or ASSIGN) â€“ used for output
+	             int    asNum,  // IN â€“ assign. number  â€“ used for output
 				 ofstream &fout)
  {
    cout << left;
@@ -39,8 +36,8 @@ void PrintHeader(string asName, // IN - assignment Name – used for output
    cout << "*  " << setw(14) << "CLASS" << ": CS1B - MW - 6:30p\n";
    cout << "*  " ;
 
-   // PROCESSING – This will adjust setws and format appropriately
-   //              based on if this is a lab ‘L’ or assignment
+   // PROCESSING â€“ This will adjust setws and format appropriately
+   //              based on if this is a lab â€˜Lâ€™ or assignment
    if (toupper(asType) == 'L')
    {
 	   cout << "LAB #" << setw(9);
@@ -61,8 +58,8 @@ void PrintHeader(string asName, // IN - assignment Name – used for output
    fout << "*  " << setw(14) << "CLASS" << ": CS1B - MW - 6:30p\n";
    fout << "*  " ;
 
-   // PROCESSING – This will adjust setws and format appropriately
-   //              based on if this is a lab ‘L’ or assignment
+   // PROCESSING â€“ This will adjust setws and format appropriately
+   //              based on if this is a lab â€˜Lâ€™ or assignment
    if (toupper(asType) == 'L')
    {
    	fout << "LAB #" << setw(9);
