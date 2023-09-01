@@ -1,0 +1,42 @@
+*************************************************************
+* PROGRAMMED BY : Negin Mashhadi &   Kevin Truong
+* STUDENT ID    : 1084104	 	 &	 1017195
+* CLASS         : CS1B - MW - 6:30pm
+* LAB # 7       : testing
+*************************************************************
+
+
+Welcome to the chocalate bar program! :)
+Rember each sheep will get the maximum amount of 4 choclate bars
+
+Test Case #1
+
+How many chocalate bars do you have? 40
+
+How many sheeps do you have? 20
+
+Each sheep will recieve 2 chocolate bars
+There are 0 chocolate bars
+
+Test Case #2
+
+How many chocalate bars do you have? 41
+
+How many sheeps do you have? 10
+
+Each sheep will recieve 4 chocolate bars
+There are 1 chocolate bars
+
+Test Case #3
+
+How many chocalate bars do you have? -100
+
+Please enter a positive intger!
+
+How many chocalate bars do you have? 500
+
+How many sheeps do you have? 52222
+
+Each sheep will recieve 0 chocolate bars
+There are 500 chocolate bars
+Thank you for using my program! :)
