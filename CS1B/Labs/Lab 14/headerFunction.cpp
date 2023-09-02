@@ -1,6 +1,4 @@
 /******************************************************************************
- * AURHOR			:	Negin Mashhadi &	Travis Nguyen
- * STUDENT ID		:	1084104 	   &	1035825
  * LAB #14			:	Arrays & Linked Lists of Sheep
  * CLASS			:	CS1B
  * SECTION			:	MW - 6:30pm - 9:50pm
@@ -34,8 +32,6 @@ void PrintHeader (ostream  &output,	// IN/OUT - output file
 {
 	output << left;
 	output << "*************************************************************\n";
-	output << "* PROGRAMMED BY : Negin Mashhadi & Travis Nguyen\n";
-	output << "* "	  << setw(14) << "STUDENT ID" << ": 1084104	 & 1035825\n";
 	output << "* "    << setw(14) << "CLASS"      << ": CS1B - MW - 6:30pm\n";
 	output << "* ";
 
