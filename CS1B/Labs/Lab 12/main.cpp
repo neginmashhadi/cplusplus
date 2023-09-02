@@ -1,7 +1,5 @@
 /******************************************************************************
- * AUTHOR			:	Negin Mashhadi & Oscar Lopez
- * STUDENT ID		:	1084104 	   & 1079497
- * EXTRA CREDIT		: 	Functions and Arrays
+ * EXTRA CREDIT			: 	Functions and Arrays
  * CLASS			:	CS1B
  * SECTION			:	MW - 6:30pm - 9:50pm
  * DUE DATE			:	02/12/2018
