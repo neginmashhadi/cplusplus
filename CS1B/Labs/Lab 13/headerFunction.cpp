@@ -32,8 +32,6 @@ void PrintHeader (ostream  &output,	// IN/OUT - output file
 {
 	output << left;
 	output << "*************************************************************\n";
-	output << "* PROGRAMMED BY : Negin Mashhadi & Mohammed Taei\n";
-	output << "* "	  << setw(14) << "STUDENT ID" << ": 1084104	 & 1019392\n";
 	output << "* "    << setw(14) << "CLASS"      << ": CS1B - MW - 6:30pm\n";
 	output << "* ";
 
