@@ -1,6 +1,4 @@
 /******************************************************************************
- * AUTHOR		  : Caroline Ta	& Negin Mashhadi
- * STUDENT ID	  : 1061262		& 1084104
  * LAB #15		  : Inheritance, overloading, & redifining
  * CLASS		  : CS1B
  * SECTION		  : MW - 6.30PM
@@ -33,7 +31,7 @@ Sheep::~Sheep()
 *
 * Mutator; This method will set the wool
 *-------------------------------------------------------------------------------
-* Parameter: wool (WoolType) // IN – the type of the wool
+* Parameter: wool (WoolType) // IN â€“ the type of the wool
 *-------------------------------------------------------------------------------
 * Return: none
 *******************************************************************************/
@@ -61,7 +59,7 @@ WoolType Sheep::GetWool() const
 *
 * Mutator; This method will set the color of the wool
 *-------------------------------------------------------------------------------
-* Parameter: color (string) // IN – the color of the wool
+* Parameter: color (string) // IN â€“ the color of the wool
 *-------------------------------------------------------------------------------
 * Return: none
 *******************************************************************************/
@@ -90,7 +88,7 @@ string Sheep::GetColor() const
 * Mutator; This method will set the type of the wool and it's color
 *-------------------------------------------------------------------------------
 * Parameter: wool 	   (WoolType) 	// IN - the type of the wool
-* 			 woolColor (string) 	// IN – the color of the wool
+* 			 woolColor (string) 	// IN â€“ the color of the wool
 *-------------------------------------------------------------------------------
 * Return: none
 *******************************************************************************/
