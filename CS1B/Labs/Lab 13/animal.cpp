@@ -1,6 +1,4 @@
 /******************************************************************************
- * AURHOR			:	Negin Mashhadi &	Mohammed Taei
- * STUDENT ID		:	1084104 	   &	1019392
  * LAB #13			:	Intro to OOP
  * CLASS			:	CS1B
  * SECTION			:	MW - 6:30pm - 9:50pm
@@ -44,7 +42,7 @@ Animal::~Animal()
 * Mutator; This method will update the age attribute to the
 * parameter age value
 *-------------------------------------------------------------------------------
-* Parameter: age (integer) // IN – the age for the new attribute
+* Parameter: age (integer) // IN â€“ the age for the new attribute
 *-------------------------------------------------------------------------------
 * Return: none
 *******************************************************************************/
@@ -73,7 +71,7 @@ int Animal::GetAge() const
 * Mutator; This method will update the name attribute to the
 * parameter name
 *-------------------------------------------------------------------------------
-* Parameter: animalName (string) // IN – the name for the new attribute
+* Parameter: animalName (string) // IN â€“ the name for the new attribute
 *-------------------------------------------------------------------------------
 * Return: none
 *******************************************************************************/
@@ -102,7 +100,7 @@ string Animal::GetName () const
 * Mutator; This method will update the type attribute to the
 * parameter animalType
 *-------------------------------------------------------------------------------
-* Parameter: animalType (AnimalType) // IN – the type for the new attribute
+* Parameter: animalType (AnimalType) // IN â€“ the type for the new attribute
 *-------------------------------------------------------------------------------
 * Return: none
 *******************************************************************************/
@@ -155,7 +153,7 @@ string Animal::GetStringType() const
 * Mutator; This method will update the value attribute to the
 * parameter animalValue
 *-------------------------------------------------------------------------------
-* Parameter: animalValue (double) // IN – the value for the new attribute
+* Parameter: animalValue (double) // IN â€“ the value for the new attribute
 *-------------------------------------------------------------------------------
 * Return: none
 *******************************************************************************/
