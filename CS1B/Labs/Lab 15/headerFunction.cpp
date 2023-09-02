@@ -1,6 +1,4 @@
 /******************************************************************************
- * AUTHOR		  : Caroline Ta	& Negin Mashhadi
- * STUDENT ID	  : 1061262		& 1084104
  * LAB #15		  : Inheritance, overloading, & redifining
  * CLASS		  : CS1B
  * SECTION		  : MW - 6.30PM
@@ -33,8 +31,6 @@ void PrintHeader (ostream  &output,	// IN/OUT - output file
 {
 	output << left;
 	output << "*************************************************************\n";
-	output << "* PROGRAMMED BY : Negin Mashhadi &   Caroline Ta\n";
-	output << "* "	  << setw(14) << "STUDENT ID" << ": 1084104	 &	1061262\n";
 	output << "* "    << setw(14) << "CLASS"      << ": CS1B - MW - 6:30pm\n";
 	output << "* ";
 
