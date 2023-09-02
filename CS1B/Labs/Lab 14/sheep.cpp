@@ -1,6 +1,4 @@
 /******************************************************************************
- * AURHOR			:	Negin Mashhadi &	Travis Nguyen
- * STUDENT ID		:	1084104 	   &	1035825
  * LAB #14			:	Arrays & Linked Lists of Sheep
  * CLASS			:	CS1B
  * SECTION			:	MW - 6:30pm - 9:50pm
