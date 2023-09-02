@@ -1,6 +1,4 @@
 /*******************************************************************************
- * AUTHOR     : Negin Mashhadi
- * STUDENT ID : 1084104
  * LAB # 12   : Recursion GCD
  * CLASS      : CS1B
  * SECTION    : MW-6:30 PM
