@@ -1,6 +1,4 @@
 /******************************************************************************
- * AURHOR			:	Negin Mashhadi &	Travis Nguyen
- * STUDENT ID		:	1084104 	   &	1035825
  * LAB #14			:	Arrays & Linked Lists of Sheep
  * CLASS			:	CS1B
  * SECTION			:	MW - 6:30pm - 9:50pm
@@ -38,12 +36,12 @@ SheepArray::~SheepArray()
 *
 * Mutator; This method will add a sheep to the array
 *-------------------------------------------------------------------------------
-* Parameter: sheepName (string) // IN – the name for the new sheep
+* Parameter: sheepName (string) // IN â€“ the name for the new sheep
 * 			 sheepAge  (int)	// IN - the age for the new sheep
 *-------------------------------------------------------------------------------
 * Return: none
 *******************************************************************************/
-void SheepArray::AddSheep(string sheepName, 	// IN – the name for the new sheep
+void SheepArray::AddSheep(string sheepName, 	// IN â€“ the name for the new sheep
 					 	  int 	sheepAge)	// IN - the age for the new sheep
 {
 	if(index < AR_SIZE)
