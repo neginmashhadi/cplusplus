@@ -1,5 +1,4 @@
 **************************************************
-*  PROGRAMMED BY : Jeffrey Adams & Negin Mashhadi
 *  CLASS         : CS1B
 *  SECTION       : MW: 6:30PM
 *  LAB #11       : Creating an Ordered List
