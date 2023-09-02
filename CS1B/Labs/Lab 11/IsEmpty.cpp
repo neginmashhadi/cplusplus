@@ -1,6 +1,4 @@
 /***********************************************************************
- * AUTHOR     : Jeffrey Adams & Negin Mashhadi
- * STUDENT ID : 1080576 & 1084104
  * LAB # 11   : Creating an Ordered List
  * CLASS      : CS1B
  * SECTION    : MW-6:30 PM
