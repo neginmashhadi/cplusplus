@@ -1,5 +1,5 @@
 /******************************************************************************
- * Lab 16	 5 		: 	Recurrsion Performance
+ * Lab 16		 	: 	Polymorphism
  * CLASS			:	CS1B
  * SECTION			:	MW - 6:30pm - 9:50pm
  * DUE DATE			:	05/01/2018
