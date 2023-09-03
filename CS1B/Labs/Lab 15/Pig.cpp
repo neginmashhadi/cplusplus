@@ -1,6 +1,4 @@
 /******************************************************************************
- * AUTHOR		  : Caroline Ta	& Negin Mashhadi
- * STUDENT ID	  : 1061262		& 1084104
  * LAB #15		  : Inheritance, overloading, & redifining
  * CLASS		  : CS1B
  * SECTION		  : MW - 6.30PM
@@ -33,7 +31,7 @@ Pig::~Pig()
 *
 * Mutator; This method will set the tail
 *-------------------------------------------------------------------------------
-* Parameter: pigTail (TailType) // IN – the type of the tail
+* Parameter: pigTail (TailType) // IN â€“ the type of the tail
 *-------------------------------------------------------------------------------
 * Return: none
 *******************************************************************************/
