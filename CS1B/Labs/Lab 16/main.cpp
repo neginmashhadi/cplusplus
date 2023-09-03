@@ -1,6 +1,4 @@
 /******************************************************************************
- * AUTHOR			:	Negin Mashhadi
- * STUDENT ID		:	1084104
  * Lab 16		 	: 	Polymorphism
  * CLASS			:	CS1B
  * SECTION			:	MW - 6:30pm - 9:50pm
