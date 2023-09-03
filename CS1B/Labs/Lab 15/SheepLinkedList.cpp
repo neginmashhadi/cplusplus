@@ -1,6 +1,4 @@
 /******************************************************************************
- * AUTHOR		  : Caroline Ta	& Negin Mashhadi
- * STUDENT ID	  : 1061262		& 1084104
  * LAB #15		  : Inheritance, overloading, & redifining
  * CLASS		  : CS1B
  * SECTION		  : MW - 6.30PM
@@ -34,7 +32,7 @@ SheepLinkedList::~SheepLinkedList()
 *
 * Mutator; This method will add a sheep to the queue
 *-------------------------------------------------------------------------------
-* Parameter: sheep (Sheep) // CALC – the type of animal
+* Parameter: sheep (Sheep) // CALC â€“ the type of animal
 *-------------------------------------------------------------------------------
 * Return: none
 *******************************************************************************/
