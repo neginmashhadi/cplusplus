@@ -1,6 +1,4 @@
 /******************************************************************************
- * AUTHOR		  : Caroline Ta	& Negin Mashhadi
- * STUDENT ID	  : 1061262		& 1084104
  * LAB #15		  : Inheritance, overloading, & redifining
  * CLASS		  : CS1B
  * SECTION		  : MW - 6.30PM
