@@ -34,7 +34,7 @@ Animal::~Animal()
 * Mutator; This method will update the age attribute to the
 * parameter age value
 *-------------------------------------------------------------------------------
-* Parameter: age (integer) // IN – the age for the new attribute
+* Parameter: age (integer) // IN â€“ the age for the new attribute
 *-------------------------------------------------------------------------------
 * Return: none
 *******************************************************************************/
@@ -63,7 +63,7 @@ int Animal::GetAge() const
 * Mutator; This method will update the name attribute to the
 * parameter
 *-------------------------------------------------------------------------------
-* Parameter: animalName (string) // IN – the name for the new attribute
+* Parameter: animalName (string) // IN â€“ the name for the new attribute
 *-------------------------------------------------------------------------------
 * Return: none
 *******************************************************************************/
@@ -89,7 +89,7 @@ string Animal::GetName() const
 * Mutator; This method will update the name attribute to the
 * parameter
 *-------------------------------------------------------------------------------
-* Parameter: newName (string) // IN – the name for the new attribute
+* Parameter: newName (string) // IN â€“ the name for the new attribute
 *-------------------------------------------------------------------------------
 * Return: none
 *******************************************************************************/
@@ -104,7 +104,7 @@ void Animal::Modify(string newName)
 * Mutator; This method will update the age attribute to the
 * parameter
 *-------------------------------------------------------------------------------
-* Parameter: newAge (int) // IN – the age for the new attribute
+* Parameter: newAge (int) // IN â€“ the age for the new attribute
 *-------------------------------------------------------------------------------
 * Return: none
 *******************************************************************************/
@@ -118,7 +118,7 @@ void Animal::Modify(int newAge)
 * Mutator; This method will update the age and name attribute to the
 * parameter
 *-------------------------------------------------------------------------------
-* Parameter: age (int) 		// IN – the age for the new attribute
+* Parameter: age (int) 		// IN â€“ the age for the new attribute
 * 			 name (string) This method will update the name attribute to the
 *-------------------------------------------------------------------------------
 * Return: none
